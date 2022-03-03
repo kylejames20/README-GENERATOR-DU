@@ -16,8 +16,9 @@
 
 4. [Questions](#questions-please-contact-me-via-email-at-exampleexamplecom)
 
+## Below is a short GIF showing the application working correctly.
 
-[/Users/kvc/code/homework/README-GENERATOR-DU/readmegen.gif]
+![GIF of application working](./git-files/readmegen.gif)
 
 
 
