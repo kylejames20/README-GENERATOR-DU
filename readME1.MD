@@ -2,7 +2,7 @@
 
 ## This project allows users to create a quick and quality readme.
 
-## To see a preview of the readme generator in action, please click the link provided: 
+## To see a preview of the readme generator in action, please click the link provided:  [https://www.youtube.com/watch?v=P_ssFPi4aJU]
 
 
 
@@ -17,7 +17,7 @@
 4. [Questions](#questions-please-contact-me-via-email-at-exampleexamplecom)
 
 
-
+[/Users/kvc/code/homework/README-GENERATOR-DU/readmegen.gif]
 
 
 
